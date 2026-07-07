@@ -1,0 +1,20 @@
+# print("Olá, mundo!")
+# print("Olá, tudo bem? ")
+# print("Estou bem, e você? ")
+# print("Tudo certinho! ")
+
+# print("Olá, Maria! Tudo bem? ")
+# print("Oi, Lucas! Estou bem, e você? ")
+# print("Estou ótimo! Como foi seu dia? ")
+
+# print("*****************")
+# print("Nome: Iury Silva Alves Cardoso")
+# print("Profissão: Engenheiro de Software")
+# print("Cidade: São Paulo")
+# print("*****************")
+
+print("     /\\")
+print("    /  \\")
+print("   /____\\")
+print("   | [] |")
+print("   |____|")
